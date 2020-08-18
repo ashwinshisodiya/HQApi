@@ -45,10 +45,13 @@ HQApi -h
 
 
 ## What is Red Enigma and Purple Jupiter?
-Well, I can't tell publicly about it. You must research it by yourself. Don't even try to ask me. 
+Well, I can't tell publicly about it. You must research it by yourself. Don't even try to ask me.
+
 Tip: Don't update version. 1.49.8 is great.
 
 ## Contact author
 * [@lapkioff](https://t.me/lapkioff) - Telegram
 * katant.savelev@yandex.ru - Mail
-I don't use any another accounts. Anyone who is claiming that he is Katant in Discord, VK, etc is fake.
+* [@hqapi](https://t.me/hqapi) - Telegram group
+
+I don't use any another accounts. Anyone who is claiming that he is Katant in Discord, VK, etc is fake. Don't send me any unimportant messages, use Telegram group for that
