@@ -53,7 +53,7 @@ class BaseHQApi:
         return self.fetch("DELETE", "users/me/avatarUrl")
 
     def add_referral(self, referral: str):
-        return self.fetch("PATCH", "users/me", {"referringUsername": referral})
+        return self.fetch("PATCH", "users/me", {"referringUsername": referral},{"referringUsername": referral})
 
     def add_friend(self, id: str):
         return self.fetch("POST", "friends/{}/requests".format(id))
